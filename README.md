@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CloudySkies-personal
+- 👋 Hi, I’m @CloudySkies-personal on Github, James in real life
 - 👀 I’m interested in using programming and problem solving for data analysis needs
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on simple projects for now
